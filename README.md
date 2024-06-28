@@ -1,5 +1,10 @@
 <h1>Hi, I'm Milkan! <br/><a href="https://www.linkedin.com/in/prince-milkan/">Cybersecurity Professional</a>, <a href="bit.ly/princemilkan">Web & Graphic Designer/Developer</a></h1>
 
+<h2>📜 Certifications:</h2>
+
+- <b>CompTIA Security+</b>
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -17,6 +22,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
