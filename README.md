@@ -2,14 +2,16 @@
 
 <h2>📜 Certifications:</h2>
 
-- <b>CompTIA Security+</b>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>[CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Qualys Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Advance Web and Wordpress Development (Coders Trust)](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Graphics Design and CPA (Jaza IT)](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Mastercard Cybersecurity virtual experience program on Forage - June 2024 </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
