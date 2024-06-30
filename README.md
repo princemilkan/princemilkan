@@ -1,4 +1,4 @@
-<h1>Hi, I'm Milkan! <br/><a href="https://www.linkedin.com/in/prince-milkan/">Cybersecurity Professional</a>, <a href="bit.ly/princemilkan">Web & Graphic Designer/Developer</a></h1>
+<h1>Hi, I'm Milkan! <br/><a href="https://www.linkedin.com/in/prince-milkan/">Cybersecurity Professional</a>, <a href="bit.ly/princemilkan">Web Developer</a></h1>
 
 <h2>📜 Certifications:</h2>
 
