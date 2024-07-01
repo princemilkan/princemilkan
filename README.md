@@ -4,7 +4,7 @@
 
 - <b>[CompTIA Security+ SY0 701](https://github.com/princemilkan/Security-)</b>
 - <b>[Qualys Vulnerability Management](https://github.com/princemilkan/Qualys)</b>
-- <b>[Advance Web and Wordpress Development (Coders Trust)](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Advance Web and Wordpress Development (Coders Trust)](https://github.com/princemilkan/CodersTrust)</b>
 - <b>Graphics Design and CPA (Jaza IT)</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
