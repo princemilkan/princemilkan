@@ -10,10 +10,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/princemilkan/ActiveDirectoryLab)</b>
-- <b>Mastercard Cybersecurity virtual experience program on Forage - June 2024 </b>
-  - [Certificate](https://i.imgur.com/s5A5AoW.png) <b>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Mastercard Cybersecurity virtual experience program on Forage - June 2024 </b>
+  - [Certificate](https://i.imgur.com/s5A5AoW.png) <b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
