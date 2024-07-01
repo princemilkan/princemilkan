@@ -11,7 +11,7 @@
 
 - <b>[Active Directory Home Lab](https://github.com/princemilkan/ActiveDirectoryLab)</b>
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/princemilkan/PowershellBulk)
 - <b>Mastercard Cybersecurity virtual experience program on Forage - June 2024 </b>
   - [Certificate](https://i.imgur.com/s5A5AoW.png) <b>
 
