@@ -10,6 +10,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/princemilkan/ActiveDirectoryLab)</b>
+- <b>[Azure-Sentinel-SIEM-Lab](https://github.com/princemilkan/Azure-Sentinel-SIEM-Lab-)</b>
+- <b>[Vulnerability-Management Lab](https://github.com/princemilkan/Vulnerability-Management-)</b>
+- <b>[Malware Analysis Lab](https://github.com/princemilkan/Vulnerability-Management-)</b>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/princemilkan/PowershellBulk)
 - <b>Mastercard Cybersecurity virtual experience program on Forage - June 2024 </b>
