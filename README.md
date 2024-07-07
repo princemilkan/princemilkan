@@ -10,7 +10,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/princemilkan/ActiveDirectoryLab)</b>
-- <b>[Wazuh SIEM lab](https://github.com/princemilkan/Azure-Sentinel-SIEM-Lab-)</b>
+- <b>[Wazuh SIEM lab](https://github.com/princemilkan/Wazuh-SIEM-lab)</b>
 - <b>[Vulnerability-Management Lab](https://github.com/princemilkan/Vulnerability-Management-)</b>
 - <b>[Malware Analysis Lab](https://github.com/princemilkan/Malware-Analysis-Lab)</b>
 - <b>PowerShell</b>
