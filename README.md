@@ -11,12 +11,14 @@
 
 - <b>[Active Directory Home Lab](https://github.com/princemilkan/ActiveDirectoryLab)</b>
 - <b>[Wazuh SIEM lab](https://github.com/princemilkan/Wazuh-SIEM-lab)</b>
-- <b>[Vulnerability-Management Lab](https://github.com/princemilkan/Vulnerability-Management-)</b>
-- <b>[Malware Analysis Lab](https://github.com/princemilkan/Malware-Analysis-Lab)</b>
+- <b>[Endpoint Analysis](https://github.com/princemilkan/ENDPOINT-log-Analysis)</b>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/princemilkan/PowershellBulk)
 - <b>Mastercard Cybersecurity virtual experience program on Forage - June 2024 </b>
   - [Certificate](https://i.imgur.com/s5A5AoW.png) <b>
+- <b>[Vulnerability-Management Lab](https://github.com/princemilkan/Vulnerability-Management-)</b>
+- <b>[Malware Analysis Lab](https://github.com/princemilkan/Malware-Analysis-Lab)</b>
+
 <!--
 <h2>📺 Popular YouTube Videos</h2>
 
