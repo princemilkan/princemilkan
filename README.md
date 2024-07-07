@@ -1,13 +1,13 @@
 <h1>Hi, I'm Milkan! <br/><a href="https://www.linkedin.com/in/prince-milkan/">Cybersecurity Professional</a>, <a href="bit.ly/princemilkan">Web Developer</a></h1>
 
-<h2>📜 Certifications:</h2>
+<h2> 🏆🏆 CERTIFICATIONS:</h2>
 
 - <b>[CompTIA Security+ SY0 701](https://github.com/princemilkan/Security-)</b>
 - <b>[Qualys Vulnerability Management](https://github.com/princemilkan/Qualys)</b>
 - <b>[Advance Web and Wordpress Development (Coders Trust)](https://github.com/princemilkan/CodersTrust)</b>
 - <b>Graphics Design and CPA (Jaza IT)</b>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 🛡️ CYBERSECURITY PROJECTS:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/princemilkan/ActiveDirectoryLab)</b>
 - <b>[Wazuh SIEM lab](https://github.com/princemilkan/Wazuh-SIEM-lab)</b>
@@ -28,12 +28,12 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
-<h2> 🤳 Connect with me:</h2>
+<h2> 🌍 CONNECT WITH ME:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+<!-- [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 [twitter]: https://twitter.com/princemilkan
 [youtube]: https://www.youtube.com/c/princemilkan
