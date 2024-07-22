@@ -4,6 +4,7 @@
 
 - <b>[CompTIA Security+ SY0 701](https://github.com/princemilkan/Security-)</b>
 - <b>[Qualys Vulnerability Management](https://github.com/princemilkan/Qualys)</b>
+- <b>[Cybersecurity Masterclass: SOC Analyst](https://github.com/princemilkan/Cybersecurity_Masterclass_SOC_Analyst)</b>
 - <b>[Advance Web and Wordpress Development (Coders Trust)](https://github.com/princemilkan/CodersTrust)</b>
 - <b>Graphics Design and CPA (Jaza IT)</b>
 
