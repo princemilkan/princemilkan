@@ -10,7 +10,7 @@
 
 <h2> 🛡️ CYBERSECURITY PROJECTS:</h2>
 
-- <b>[Live SOC/Honeynet In Azure](https://github.com/princemilkan/Azure-Cloud_Live_SOC-Honeynet)</b>
+- <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/princemilkan/Azure-Cloud_Live_SOC-Honeynet)</b>
 - <b>[Active Directory Home Lab](https://github.com/princemilkan/ActiveDirectoryLab)</b>
 - <b>[Wazuh SIEM lab](https://github.com/princemilkan/Wazuh-SIEM-lab)</b>
 - <b>[Endpoint Analysis](https://github.com/princemilkan/ENDPOINT-log-Analysis)</b>
